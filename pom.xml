@@ -11,7 +11,7 @@
 
     <name>JAX-RS 2.0 HTML Provider</name>
     <description>HTML Generation for JAX-RS applications</description>
-    <url>https://github.com/internetitem/jaxrs-template-provider</url>
+    <url>https://github.com/internetitem/jaxrs-html-provider</url>
 
     <licenses>
         <license>
@@ -27,9 +27,9 @@
     </organization>
 
     <scm>
-        <connection>scm:git:https://github.com/internetitem/jaxrs-template-provider.git</connection>
-        <developerConnection>scm:git:https://github.com/internetitem/jaxrs-template-provider.git</developerConnection>
-        <url>https://github.com/internetitem/jaxrs-template-provider</url>
+        <connection>scm:git:https://github.com/internetitem/jaxrs-html-provider.git</connection>
+        <developerConnection>scm:git:https://github.com/internetitem/jaxrs-html-provider.git</developerConnection>
+        <url>https://github.com/internetitem/jaxrs-html-provider</url>
         <tag>HEAD</tag>
     </scm>
 
