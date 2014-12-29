@@ -10,7 +10,7 @@ Add the following to your `pom.xml` (updating `<version>` where appropriate):
     <dependency>
         <groupId>com.internetitem.web</groupId>
         <artifactId>jaxrs-html-provider</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </dependency>
 
 You must provide your own JAX-RS and FreeMarker dependencies.

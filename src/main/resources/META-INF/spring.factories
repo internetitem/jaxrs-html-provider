@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.internetitem.web.html.spring.SpringTemplateProvider
+com.internetitem.web.html.spring.JaxRsHtmlProviderConfiguration
