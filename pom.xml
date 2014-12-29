@@ -4,7 +4,7 @@
 
     <groupId>com.internetitem.web</groupId>
     <artifactId>jaxrs-html-provider</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>JAX-RS 2.0 HTML Provider</name>
@@ -28,7 +28,7 @@
         <connection>scm:git:https://github.com/internetitem/jaxrs-html-provider.git</connection>
         <developerConnection>scm:git:https://github.com/internetitem/jaxrs-html-provider.git</developerConnection>
         <url>https://github.com/internetitem/jaxrs-html-provider</url>
-        <tag>HEAD</tag>
+        <tag>v1.0.1</tag>
     </scm>
 
     <developers>
